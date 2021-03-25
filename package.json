@@ -8,7 +8,7 @@
     "testbuild": "vue-cli-service build --mode development"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "postcss-pxtorem": "^5.1.1",
     "store": "^2.0.12",
